@@ -1,0 +1,5 @@
+What is your favorite programming language? Why?
+My favorite programming language is JavaScript because you can create backend and frontend applications with it.
+Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+I am most experienced with JavaScript, which is my favorite programming language.
+
